@@ -1,0 +1,6 @@
+function fetchData()
+{
+    var start = $("#dtp_from").datetimepicker().value();
+	alert( start );
+}
+
